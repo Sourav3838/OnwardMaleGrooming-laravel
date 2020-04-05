@@ -1,3 +1,25 @@
+# OnWardMaleGrooming-laravel
+
+# admin username:-root@root.com and password:-Root@123
+
+# please add the myproject folder inside htdocs
+
+# please create a database named parlourpro and import sql from the db folder.
+
+# internet connection -required
+
+# myproject folder does not contain vendor folder so it is advised to add the vendor folder inside myproject folder before running the website 
+
+# myproject folder does not contain .env file so it is advised to add the .env file inside myproject and replace the name of the database to parlourpro like this:-
+
+# DB_DATABASE=parlourpro
+
+# just before running the website use the cmd command 
+# php artisan migrate
+
+# url to start:-
+# http://127.0.0.1:8000/
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
